@@ -98,5 +98,5 @@ Este será meu principal projeto de portfólio, conectando experiência real em 
 
 ## 📫 Contato
 
-- LinkedIn: adicione aqui seu link
+- LinkedIn: https://www.linkedin.com/in/bruno-giacomelli-9b049934a/
 - GitHub: github.com/brunogiacomelli1979-cyber
