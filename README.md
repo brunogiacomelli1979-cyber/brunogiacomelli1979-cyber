@@ -85,6 +85,23 @@ O objetivo será analisar indicadores como:
 Este será meu principal projeto de portfólio, conectando experiência real em operações com análise de dados, Power BI e tomada de decisão.
 
 ---
+## 🤖 Projetos de IA, No-Code e Produto Digital
+
+### Glix *(repositório privado)*
+
+Aplicativo SaaS de health tech para registro, acompanhamento e organização pessoal de glicemia, com foco em simplicidade, segurança dos dados e geração de relatórios.
+
+Projeto em desenvolvimento, utilizado como prática de criação de produto digital, organização de requisitos, documentação e aplicação de soluções com apoio de IA.
+
+---
+
+### Zenflow AI — Agente para Estúdios de Yoga *(repositório privado)*
+
+Projeto de portfólio voltado à criação de um agente inteligente para estúdios de yoga, com foco em atendimento via WhatsApp, qualificação de leads, recomendação de modalidades e automação de agendamentos.
+
+O projeto utiliza conceitos de agentes de IA, automação de atendimento, fluxos conversacionais, n8n, Supabase e soluções no-code/low-code.
+
+---
 
 ## 📚 Em estudo atualmente
 
