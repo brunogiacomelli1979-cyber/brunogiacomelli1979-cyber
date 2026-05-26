@@ -31,6 +31,7 @@ Atualmente, estudo e desenvolvo projetos com foco em transformar dados operacion
 - SQL / MySQL
 - Python
 - Git e GitHub
+- HTML
 - n8n
 - Supabase
 - Inteligência Artificial aplicada a negócios
@@ -39,13 +40,15 @@ Atualmente, estudo e desenvolvo projetos com foco em transformar dados operacion
 
 ## 📊 Projetos em destaque
 
-### Relatório Power BI — Financial Sample
+### Porsche Sales Intelligence Dashboard
 
-Relatório desenvolvido em Power BI utilizando a base Financial Sample, com foco em análise de vendas, lucro, unidades vendidas, segmentos, produtos e países.
+Dashboard executiva de vendas Porsche desenvolvida com **Excel, HTML, CSS e apoio de IA**, criada para o desafio **AI Reports**.
 
-O projeto foi criado como parte de um desafio prático da DIO e contribuiu para o desenvolvimento de habilidades em visualização de dados, organização de layout, criação de indicadores e estruturação de relatórios analíticos.
+O projeto simula uma análise executiva de vendas, com foco em indicadores comerciais, visualização clara dos dados, apresentação profissional e documentação do processo de tratamento e estruturação das informações.
 
-Repositório: [dio-power-bi-relatorio-financial-sample](https://github.com/brunogiacomelli1979-cyber/dio-power-bi-relatorio-financial-sample)
+A proposta foi transformar uma base inicialmente desorganizada em uma experiência visual mais clara, executiva e orientada à tomada de decisão.
+
+Repositório: [porsche-sales-intelligence-dashboard](https://github.com/brunogiacomelli1979-cyber/porsche-sales-intelligence-dashboard)
 
 ---
 
@@ -56,6 +59,16 @@ Dashboard de vendas desenvolvido em Power BI com base na Financial Sample, explo
 O projeto foi desenvolvido com foco em organização visual, leitura de indicadores e construção de um relatório mais elaborado para portfólio.
 
 Repositório: [dio-power-bi-sales-report-financial-sample](https://github.com/brunogiacomelli1979-cyber/dio-power-bi-sales-report-financial-sample)
+
+---
+
+### Relatório Power BI — Financial Sample
+
+Relatório desenvolvido em Power BI utilizando a base Financial Sample, com foco em análise de vendas, lucro, unidades vendidas, segmentos, produtos e países.
+
+O projeto foi criado como parte de um desafio prático da DIO e contribuiu para o desenvolvimento de habilidades em visualização de dados, organização de layout, criação de indicadores e estruturação de relatórios analíticos.
+
+Repositório: [dio-power-bi-relatorio-financial-sample](https://github.com/brunogiacomelli1979-cyber/dio-power-bi-relatorio-financial-sample)
 
 ---
 
@@ -157,5 +170,5 @@ Busco unir minha experiência prática em logística, operações e atendimento 
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/bruno-giacomelli-9b049934a/
-- GitHub: https://github.com/brunogiacomelli1979-cyber
+- LinkedIn: [linkedin.com/in/bruno-giacomelli-9b049934a](https://www.linkedin.com/in/bruno-giacomelli-9b049934a/)
+- GitHub: [github.com/brunogiacomelli1979-cyber](https://github.com/brunogiacomelli1979-cyber)
