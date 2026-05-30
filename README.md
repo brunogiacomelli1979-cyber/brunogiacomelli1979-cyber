@@ -1,15 +1,17 @@
 # Olá, eu sou Bruno Giacomelli 👋
 
-Profissional em transição para a área de **Análise de Dados, Business Intelligence e Automação com IA**, com experiência prática em **logística aeroportuária, operações, atendimento ao cliente, indicadores e melhoria de processos**.
+Profissional com experiência prática em **logística aeroportuária, operações, atendimento ao cliente, indicadores e melhoria de processos**, em evolução para a área de **Análise de Dados, Business Intelligence e Automação com IA**.
 
 Atuei por mais de 10 anos em ambientes operacionais complexos, incluindo operações de cargas aeroportuárias, onde desenvolvi uma visão prática sobre processos, prazos, gargalos, sistemas operacionais, atendimento a clientes e tomada de decisão em cenários de alta responsabilidade.
 
-Atualmente, estudo e desenvolvo projetos com foco em transformar dados operacionais em **dashboards, relatórios, indicadores e soluções práticas para apoio à decisão**.
+Atualmente, estudo e desenvolvo projetos com foco em transformar dados operacionais em **dashboards, relatórios, indicadores e soluções práticas para apoio à decisão**, unindo minha experiência em logística e operações com ferramentas de dados, BI e automação.
 
 ---
 
 ## 🚀 Foco atual
 
+- Logística e operações
+- Indicadores operacionais
 - Análise de Dados
 - Business Intelligence
 - Power BI
@@ -17,8 +19,6 @@ Atualmente, estudo e desenvolvo projetos com foco em transformar dados operacion
 - SQL
 - Python
 - Automação com IA
-- Indicadores operacionais
-- Logística e operações
 - No-code/low-code aplicado a negócios
 
 ---
@@ -122,7 +122,7 @@ Indicadores previstos:
 - comparação entre cargas comuns, perecíveis e DGR;
 - análise por voo, companhia aérea e período.
 
-Este será meu principal projeto de portfólio, conectando experiência real em operações com análise de dados, Power BI e tomada de decisão.
+Este será meu principal projeto de portfólio, conectando experiência real em operações com análise de dados, Power BI, indicadores logísticos e tomada de decisão.
 
 ---
 
@@ -150,10 +150,10 @@ Repositório privado.
 
 ## 📚 Estudos atuais
 
-- Bootcamp Klabin — Excel e Power BI Dashboards 2026
-- CS50x — Harvard
 - Google Data Analytics — Coursera
+- Sysvision — Data Analytics com Power BI
 - Microsoft Power BI para Business Intelligence e Data Science — Data Science Academy
+- CS50x — Harvard
 - Trilha de Agentes de IA — NoCode Startup
 - SQL para Análise de Dados
 - Power BI aplicado a projetos de negócio
@@ -162,9 +162,9 @@ Repositório privado.
 
 ## 🧭 Direção profissional
 
-Meu objetivo é atuar em projetos que transformem processos manuais, planilhas e informações dispersas em **dashboards, relatórios automatizados, indicadores executivos e soluções práticas para apoio à tomada de decisão**.
+Meu objetivo é atuar na interseção entre **logística, operações, dados e automação**, contribuindo para transformar processos, planilhas e informações dispersas em **indicadores, dashboards, relatórios automatizados e soluções práticas para apoio à tomada de decisão**.
 
-Busco unir minha experiência prática em logística, operações e atendimento ao cliente com ferramentas de dados, BI e automação, contribuindo para gerar mais clareza, eficiência e produtividade em processos de negócio.
+Busco unir minha experiência prática em logística aeroportuária, atendimento ao cliente e processos operacionais com ferramentas de Dados, BI e IA, gerando mais clareza, eficiência, produtividade e controle para empresas e equipes.
 
 ---
 
