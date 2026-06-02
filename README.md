@@ -40,6 +40,18 @@ Atualmente, estudo e desenvolvo projetos com foco em transformar dados operacion
 
 ## 📊 Projetos em destaque
 
+### Dashboard Analítico de Vendas Globais — Power BI
+
+Dashboard desenvolvido em Power BI como parte do Laboratório Prático 1 do curso **Microsoft Power BI Para Business Intelligence e Data Science**, da Data Science Academy.
+
+O projeto tem como objetivo analisar vendas globais de uma empresa fictícia, respondendo perguntas de negócio relacionadas ao valor total vendido, vendas por categoria de produto, vendas por país e prioridade de entrega, média de desconto por subcategoria e países com maior média de valor de venda.
+
+O relatório utiliza recursos de Power BI, Power Query, modelagem de dados, visualizações interativas e segmentações por ano, segmento e país.
+
+Repositório: [powerbi-global-sales-dashboard](https://github.com/brunogiacomelli1979-cyber/powerbi-global-sales-dashboard)
+
+---
+
 ### Porsche Sales Intelligence Dashboard
 
 Dashboard executiva de vendas Porsche desenvolvida com **Excel, HTML, CSS e apoio de IA**, criada para o desafio **AI Reports**.
@@ -151,8 +163,8 @@ Repositório privado.
 ## 📚 Estudos atuais
 
 - Google Data Analytics — Coursera
-- Sysvision — Data Analytics com Power BI
 - Microsoft Power BI para Business Intelligence e Data Science — Data Science Academy
+- Sysvision — Data Analytics com Power BI
 - CS50x — Harvard
 - Trilha de Agentes de IA — NoCode Startup
 - SQL para Análise de Dados
