@@ -184,3 +184,4 @@ Busco unir minha experiência prática em logística aeroportuária, atendimento
 
 - LinkedIn: [linkedin.com/in/bruno-giacomelli-9b049934a](https://www.linkedin.com/in/bruno-giacomelli-9b049934a/)
 - GitHub: [github.com/brunogiacomelli1979-cyber](https://github.com/brunogiacomelli1979-cyber)
+- Portfólio: https://brunogiacomelli1979-cyber.github.io/
