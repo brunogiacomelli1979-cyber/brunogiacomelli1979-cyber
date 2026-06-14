@@ -1,52 +1,75 @@
 # Olá, eu sou Bruno Giacomelli 👋
 
-Profissional com experiência prática em **logística aeroportuária, operações, atendimento ao cliente, indicadores e melhoria de processos**, em evolução para a área de **Análise de Dados, Business Intelligence e Automação com IA**.
+Profissional com experiência em **logística aeroportuária, operações, atendimento ao cliente, indicadores e melhoria de processos**, em transição para a área de **Análise de Dados, Business Intelligence e Automação com IA**.
 
-Atuei por mais de 10 anos em ambientes operacionais complexos, incluindo operações de cargas aeroportuárias, onde desenvolvi uma visão prática sobre processos, prazos, gargalos, sistemas operacionais, atendimento a clientes e tomada de decisão em cenários de alta responsabilidade.
+Atuei por mais de 10 anos em ambientes operacionais complexos, especialmente em operações de cargas aeroportuárias, desenvolvendo visão prática sobre processos, prazos, gargalos, sistemas operacionais, atendimento a clientes estratégicos e tomada de decisão em cenários de alta responsabilidade.
 
-Atualmente, estudo e desenvolvo projetos com foco em transformar dados operacionais em **dashboards, relatórios, indicadores e soluções práticas para apoio à decisão**, unindo minha experiência em logística e operações com ferramentas de dados, BI e automação.
+Atualmente desenvolvo projetos com foco em transformar dados operacionais em **dashboards, relatórios, indicadores e soluções práticas para apoio à decisão**, unindo experiência em logística e operações com ferramentas de dados, BI e automação.
 
 ---
 
-## 🚀 Foco atual
+## 🚀 Portfólio
 
-- Logística e operações
-- Indicadores operacionais
-- Análise de Dados
-- Business Intelligence
-- Power BI
-- Excel e Power Query
-- SQL
-- Python
-- Automação com IA
-- No-code/low-code aplicado a negócios
+🌐 **Portfólio online:**
+https://brunogiacomelli1979-cyber.github.io/
+
+---
+
+## 🎯 Foco atual
+
+* Análise de Dados
+* Business Intelligence
+* Power BI
+* SQL / MySQL
+* Excel e Power Query
+* Python
+* Indicadores operacionais
+* Logística e operações
+* Automação com IA
+* No-code/low-code aplicado a negócios
 
 ---
 
 ## 🛠️ Ferramentas e tecnologias
 
-- Power BI
-- Excel
-- Power Query
-- SQL / MySQL
-- Python
-- Git e GitHub
-- HTML
-- n8n
-- Supabase
-- Inteligência Artificial aplicada a negócios
+* Power BI
+* Excel
+* Power Query
+* SQL / MySQL
+* Python
+* Git e GitHub
+* HTML / CSS
+* n8n
+* Supabase
+* Inteligência Artificial aplicada a negócios
 
 ---
 
-## 📊 Projetos em destaque
+## 📌 Projetos em destaque
+
+### Portfólio Profissional
+
+Site pessoal desenvolvido para apresentar meus projetos, trajetória profissional, certificações, currículo e direcionamento na área de Dados, BI, Operações e Automação com IA.
+
+Repositório: [brunogiacomelli1979-cyber.github.io](https://github.com/brunogiacomelli1979-cyber/brunogiacomelli1979-cyber.github.io)
+
+---
+
+### Glix
+
+Aplicativo SaaS de health tech para registro, acompanhamento e organização pessoal de glicemia, com foco em simplicidade, segurança dos dados e geração de relatórios.
+
+O projeto demonstra prática com desenvolvimento web, autenticação, banco de dados, dashboard, organização de requisitos, documentação, versionamento e uso de IA como apoio ao desenvolvimento.
+
+Repositório: [Glix](https://github.com/brunogiacomelli1979-cyber/Glix)
+
+---
 
 ### Dashboard Analítico de Vendas Globais — Power BI
 
 Dashboard desenvolvido em Power BI como parte do Laboratório Prático 1 do curso **Microsoft Power BI Para Business Intelligence e Data Science**, da Data Science Academy.
 
-O projeto tem como objetivo analisar vendas globais de uma empresa fictícia, respondendo perguntas de negócio relacionadas ao valor total vendido, vendas por categoria de produto, vendas por país e prioridade de entrega, média de desconto por subcategoria e países com maior média de valor de venda.
-
-O relatório utiliza recursos de Power BI, Power Query, modelagem de dados, visualizações interativas e segmentações por ano, segmento e país.
+O projeto analisa vendas globais de uma empresa fictícia, respondendo perguntas de negócio relacionadas a valor total vendido, vendas por categoria, país, prioridade de entrega, média de desconto por subcategoria e países com maior média de valor de venda.
 
 Repositório: [powerbi-global-sales-dashboard](https://github.com/brunogiacomelli1979-cyber/powerbi-global-sales-dashboard)
 
@@ -54,9 +77,7 @@ Repositório: [powerbi-global-sales-dashboard](https://github.com/brunogiacomell
 
 ### Porsche Sales Intelligence Dashboard
 
-Dashboard executiva de vendas Porsche desenvolvida com **Excel, HTML, CSS e apoio de IA**, criada para o desafio **AI Reports**.
-
-O projeto simula uma análise executiva de vendas, com foco em indicadores comerciais, visualização clara dos dados, apresentação profissional e documentação do processo de tratamento e estruturação das informações.
+Dashboard executivo de vendas Porsche desenvolvido com **Excel, HTML, CSS e apoio de IA**, criado para o desafio **AI Reports**.
 
 A proposta foi transformar uma base inicialmente desorganizada em uma experiência visual mais clara, executiva e orientada à tomada de decisão.
 
@@ -64,95 +85,51 @@ Repositório: [porsche-sales-intelligence-dashboard](https://github.com/brunogia
 
 ---
 
-### Sales Report — Power BI Financial Sample
+### Relatório Financeiro — Power BI
 
-Dashboard de vendas desenvolvido em Power BI com base na Financial Sample, explorando indicadores como sales, profit, COGS, discounts, unidades vendidas, segmentos, produtos, países e análise temporal.
-
-O projeto foi desenvolvido com foco em organização visual, leitura de indicadores e construção de um relatório mais elaborado para portfólio.
-
-Repositório: [dio-power-bi-sales-report-financial-sample](https://github.com/brunogiacomelli1979-cyber/dio-power-bi-sales-report-financial-sample)
-
----
-
-### Relatório Power BI — Financial Sample
-
-Relatório desenvolvido em Power BI utilizando a base Financial Sample, com foco em análise de vendas, lucro, unidades vendidas, segmentos, produtos e países.
-
-O projeto foi criado como parte de um desafio prático da DIO e contribuiu para o desenvolvimento de habilidades em visualização de dados, organização de layout, criação de indicadores e estruturação de relatórios analíticos.
+Relatório em Power BI desenvolvido para desafio da DIO, utilizando a base Financial Sample para criação de páginas analíticas com vendas, lucro, unidades vendidas, segmentos e países.
 
 Repositório: [dio-power-bi-relatorio-financial-sample](https://github.com/brunogiacomelli1979-cyber/dio-power-bi-relatorio-financial-sample)
 
 ---
 
-### Dashboard de Assinaturas Xbox Game Pass
+### Sales Report — Power BI Financial Sample
 
-Projeto em Excel desenvolvido para análise de assinaturas, planos, receitas, cupons, renovação automática e comportamento de clientes.
+Dashboard de vendas desenvolvido em Power BI com base na Financial Sample, explorando indicadores como sales, profit, COGS, discounts, unidades vendidas, segmentos, produtos, países e análise temporal.
 
-O objetivo foi praticar organização de base de dados, criação de indicadores e construção de um dashboard simples para análise de negócio.
-
-Repositório: [xbox-game-pass-dashboard](https://github.com/brunogiacomelli1979-cyber/xbox-game-pass-dashboard)
-
----
-
-### Projeto SQL — E-commerce
-
-Modelagem lógica de banco de dados para um cenário de e-commerce, com criação de tabelas, chaves primárias, chaves estrangeiras, relacionamentos, dados fictícios e queries SQL.
-
-O projeto contempla clientes PF/PJ, formas de pagamento, pedidos, produtos, fornecedores, vendedores, estoques e entregas com status e código de rastreio.
-
-Repositório: [dio-projeto-ecommerce-sql](https://github.com/brunogiacomelli1979-cyber/dio-projeto-ecommerce-sql)
-
----
-
-### Projeto SQL — Oficina Mecânica
-
-Modelagem lógica de banco de dados para uma oficina mecânica, incluindo clientes, veículos, mecânicos, equipes, ordens de serviço, serviços, peças e pagamentos.
-
-O projeto foi desenvolvido para praticar relacionamentos 1:N e N:N, tabelas associativas, persistência de dados e queries analíticas com `JOIN`, `GROUP BY`, `HAVING` e atributos derivados.
-
-Repositório: [dio-projeto-oficina-sql](https://github.com/brunogiacomelli1979-cyber/dio-projeto-oficina-sql)
+Repositório: [dio-power-bi-sales-report-financial-sample](https://github.com/brunogiacomelli1979-cyber/dio-power-bi-sales-report-financial-sample)
 
 ---
 
 ## 🎯 Projeto principal em desenvolvimento
 
-### Dashboard Operacional de Cargas Aéreas — Importação
+### Airport Cargo Analytics
 
 Projeto autoral de Business Intelligence inspirado na minha experiência em logística aeroportuária.
 
-O objetivo será analisar o desempenho operacional do recebimento, armazenagem, liberação e entrega de cargas de importação em um terminal aeroportuário, identificando gargalos, atrasos e cumprimento de SLA por tipo de carga.
+O objetivo é analisar o desempenho operacional do recebimento, armazenagem, liberação e entrega de cargas de importação em um terminal aeroportuário, identificando gargalos, atrasos e cumprimento de SLA por tipo de carga.
 
 Indicadores previstos:
 
-- tempo de recebimento de cargas;
-- tempo de armazenagem;
-- tempo de liberação;
-- tempo de entrega;
-- cumprimento de SLA;
-- gargalos operacionais;
-- desempenho por natureza da carga;
-- comparação entre cargas comuns, perecíveis e DGR;
-- análise por voo, companhia aérea e período.
+* tempo de recebimento de cargas;
+* tempo de armazenagem;
+* tempo de liberação;
+* tempo de entrega;
+* cumprimento de SLA;
+* gargalos operacionais;
+* desempenho por natureza da carga;
+* comparação entre cargas comuns, perecíveis e DGR;
+* análise por voo, companhia aérea e período.
 
-Este será meu principal projeto de portfólio, conectando experiência real em operações com análise de dados, Power BI, indicadores logísticos e tomada de decisão.
+Repositório: [airport-cargo-analytics](https://github.com/brunogiacomelli1979-cyber/airport-cargo-analytics)
 
 ---
 
 ## 🤖 Projetos privados em desenvolvimento
 
-### Glix
-
-Aplicativo SaaS de health tech para registro, acompanhamento e organização pessoal de glicemia, com foco em simplicidade, segurança dos dados e geração de relatórios.
-
-Projeto em desenvolvimento utilizado como prática de criação de produto digital, organização de requisitos, documentação, versionamento e aplicação de soluções com apoio de IA.
-
-Repositório privado.
-
----
-
 ### Zenflow AI — Agente para Estúdios de Yoga
 
-Projeto de portfólio voltado à criação de um agente inteligente para estúdios de yoga, com foco em atendimento via WhatsApp, qualificação de leads, recomendação de modalidades e automação de agendamentos.
+Projeto voltado à criação de um agente inteligente para estúdios de yoga, com foco em atendimento via WhatsApp, qualificação de leads, recomendação de modalidades e automação de agendamentos.
 
 A proposta envolve agentes de IA, automação de atendimento, fluxos conversacionais, n8n, Supabase e soluções no-code/low-code.
 
@@ -162,13 +139,13 @@ Repositório privado.
 
 ## 📚 Estudos atuais
 
-- Google Data Analytics — Coursera
-- Microsoft Power BI para Business Intelligence e Data Science — Data Science Academy
-- Sysvision — Data Analytics com Power BI
-- CS50x — Harvard
-- Trilha de Agentes de IA — NoCode Startup
-- SQL para Análise de Dados
-- Power BI aplicado a projetos de negócio
+* Google Data Analytics — Coursera
+* Microsoft Power BI para Business Intelligence e Data Science — Data Science Academy
+* Sysvision — Data Analytics com Power BI
+* CS50x — Harvard
+* Trilha de Agentes de IA — NoCode Startup
+* SQL para Análise de Dados
+* Power BI aplicado a projetos de negócio
 
 ---
 
@@ -182,6 +159,6 @@ Busco unir minha experiência prática em logística aeroportuária, atendimento
 
 ## 📫 Contato
 
-- LinkedIn: [linkedin.com/in/bruno-giacomelli-9b049934a](https://www.linkedin.com/in/bruno-giacomelli-9b049934a/)
-- GitHub: [github.com/brunogiacomelli1979-cyber](https://github.com/brunogiacomelli1979-cyber)
-- Portfólio: https://brunogiacomelli1979-cyber.github.io/
+* LinkedIn: [linkedin.com/in/bruno-giacomelli-9b049934a](https://www.linkedin.com/in/bruno-giacomelli-9b049934a/)
+* GitHub: [github.com/brunogiacomelli1979-cyber](https://github.com/brunogiacomelli1979-cyber)
+* Portfólio: [brunogiacomelli1979-cyber.github.io](https://brunogiacomelli1979-cyber.github.io/)
