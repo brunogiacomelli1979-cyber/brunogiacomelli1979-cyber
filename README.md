@@ -1,17 +1,17 @@
 # Olá, eu sou Bruno Giacomelli 👋
 
-Profissional com experiência em **logística aeroportuária, operações, atendimento ao cliente, indicadores e melhoria de processos**, em transição para a área de **Análise de Dados, Business Intelligence e Automação com IA**.
+Profissional com experiência em **logística aeroportuária, operações, atendimento ao cliente, indicadores e melhoria de processos**, em transição estratégica para **Análise de Dados, Business Intelligence e Automação aplicada a negócios**.
 
 Atuei por mais de 10 anos em ambientes operacionais complexos, especialmente em operações de cargas aeroportuárias, desenvolvendo visão prática sobre processos, prazos, gargalos, sistemas operacionais, atendimento a clientes estratégicos e tomada de decisão em cenários de alta responsabilidade.
 
-Atualmente desenvolvo projetos com foco em transformar dados operacionais em **dashboards, relatórios, indicadores e soluções práticas para apoio à decisão**, unindo experiência em logística e operações com ferramentas de dados, BI e automação.
+Atualmente desenvolvo projetos com foco em transformar dados operacionais em **dashboards, relatórios, indicadores e análises para apoio à tomada de decisão**, unindo minha experiência em logística e operações com ferramentas de dados, BI e automação.
 
 ---
 
 ## 🚀 Portfólio
 
 🌐 **Portfólio online:**
-https://brunogiacomelli1979-cyber.github.io/
+[brunogiacomelli1979-cyber.github.io](https://brunogiacomelli1979-cyber.github.io/)
 
 ---
 
@@ -22,11 +22,10 @@ https://brunogiacomelli1979-cyber.github.io/
 * Power BI
 * SQL / MySQL
 * Excel e Power Query
-* Python
 * Indicadores operacionais
 * Logística e operações
-* Automação com IA
-* No-code/low-code aplicado a negócios
+* Automação aplicada a processos
+* IA aplicada a produtividade e negócios
 
 ---
 
@@ -36,7 +35,6 @@ https://brunogiacomelli1979-cyber.github.io/
 * Excel
 * Power Query
 * SQL / MySQL
-* Python
 * Git e GitHub
 * HTML / CSS
 * n8n
@@ -49,7 +47,7 @@ https://brunogiacomelli1979-cyber.github.io/
 
 ### Portfólio Profissional
 
-Site pessoal desenvolvido para apresentar meus projetos, trajetória profissional, certificações, currículo e direcionamento na área de Dados, BI, Operações e Automação com IA.
+Site pessoal desenvolvido para apresentar meus projetos, trajetória profissional, certificações, currículo e direcionamento na área de Dados, BI, Operações e Automação aplicada a negócios.
 
 Repositório: [brunogiacomelli1979-cyber.github.io](https://github.com/brunogiacomelli1979-cyber/brunogiacomelli1979-cyber.github.io)
 
@@ -62,6 +60,27 @@ Aplicativo SaaS de health tech para registro, acompanhamento e organização pes
 O projeto demonstra prática com desenvolvimento web, autenticação, banco de dados, dashboard, organização de requisitos, documentação, versionamento e uso de IA como apoio ao desenvolvimento.
 
 Repositório: [Glix](https://github.com/brunogiacomelli1979-cyber/Glix)
+
+---
+
+### Airport Cargo Analytics
+
+Projeto autoral de Business Intelligence inspirado na minha experiência em logística aeroportuária.
+
+O objetivo é analisar o desempenho operacional do recebimento, armazenagem, liberação e entrega de cargas de importação em um terminal aeroportuário, identificando gargalos, atrasos, cumprimento de SLA e pontos de melhoria operacional.
+
+O projeto considera indicadores como:
+
+* tempo de recebimento de cargas;
+* tempo de armazenagem;
+* tempo de liberação;
+* tempo de entrega;
+* cumprimento de SLA;
+* gargalos operacionais;
+* desempenho por natureza da carga;
+* análise por voo, companhia aérea e período.
+
+Repositório: [airport-cargo-analytics](https://github.com/brunogiacomelli1979-cyber/airport-cargo-analytics)
 
 ---
 
@@ -93,67 +112,19 @@ Repositório: [dio-power-bi-relatorio-financial-sample](https://github.com/bruno
 
 ---
 
-### Sales Report — Power BI Financial Sample
-
-Dashboard de vendas desenvolvido em Power BI com base na Financial Sample, explorando indicadores como sales, profit, COGS, discounts, unidades vendidas, segmentos, produtos, países e análise temporal.
-
-Repositório: [dio-power-bi-sales-report-financial-sample](https://github.com/brunogiacomelli1979-cyber/dio-power-bi-sales-report-financial-sample)
-
----
-
-## 🎯 Projeto principal em desenvolvimento
-
-### Airport Cargo Analytics
-
-Projeto autoral de Business Intelligence inspirado na minha experiência em logística aeroportuária.
-
-O objetivo é analisar o desempenho operacional do recebimento, armazenagem, liberação e entrega de cargas de importação em um terminal aeroportuário, identificando gargalos, atrasos e cumprimento de SLA por tipo de carga.
-
-Indicadores previstos:
-
-* tempo de recebimento de cargas;
-* tempo de armazenagem;
-* tempo de liberação;
-* tempo de entrega;
-* cumprimento de SLA;
-* gargalos operacionais;
-* desempenho por natureza da carga;
-* comparação entre cargas comuns, perecíveis e DGR;
-* análise por voo, companhia aérea e período.
-
-Repositório: [airport-cargo-analytics](https://github.com/brunogiacomelli1979-cyber/airport-cargo-analytics)
-
----
-
-## 🤖 Projetos privados em desenvolvimento
-
-### Zenflow AI — Agente para Estúdios de Yoga
-
-Projeto voltado à criação de um agente inteligente para estúdios de yoga, com foco em atendimento via WhatsApp, qualificação de leads, recomendação de modalidades e automação de agendamentos.
-
-A proposta envolve agentes de IA, automação de atendimento, fluxos conversacionais, n8n, Supabase e soluções no-code/low-code.
-
-Repositório privado.
-
----
-
 ## 📚 Estudos atuais
 
 * Google Data Analytics — Coursera
 * Microsoft Power BI para Business Intelligence e Data Science — Data Science Academy
-* Sysvision — Data Analytics com Power BI
 * CS50x — Harvard
-* Trilha de Agentes de IA — NoCode Startup
-* SQL para Análise de Dados
-* Power BI aplicado a projetos de negócio
 
 ---
 
 ## 🧭 Direção profissional
 
-Meu objetivo é atuar na interseção entre **logística, operações, dados e automação**, contribuindo para transformar processos, planilhas e informações dispersas em **indicadores, dashboards, relatórios automatizados e soluções práticas para apoio à tomada de decisão**.
+Meu objetivo é atuar na interseção entre **logística, operações, dados e BI**, contribuindo para transformar processos, planilhas e informações dispersas em **indicadores, dashboards, relatórios e análises úteis para tomada de decisão**.
 
-Busco unir minha experiência prática em logística aeroportuária, atendimento ao cliente e processos operacionais com ferramentas de Dados, BI e IA, gerando mais clareza, eficiência, produtividade e controle para empresas e equipes.
+Busco unir minha experiência prática em logística aeroportuária, atendimento ao cliente e processos operacionais com ferramentas de Dados, BI e automação, gerando mais clareza, eficiência, produtividade e controle para empresas e equipes.
 
 ---
 
