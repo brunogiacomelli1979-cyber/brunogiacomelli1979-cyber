@@ -1,4 +1,4 @@
-# Olá, eu sou Bruno Giacomelli 👋
+# Olá, eu sou Bruno Giacomelli 
 
 Profissional com experiência em **logística aeroportuária, operações, atendimento ao cliente, indicadores e melhoria de processos**, em transição estratégica para **Análise de Dados, Business Intelligence e Automação aplicada a negócios**.
 
