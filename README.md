@@ -4,7 +4,7 @@ Profissional com experiência em **logística aeroportuária, operações, atend
 
 Atuei por mais de 10 anos em ambientes operacionais complexos, especialmente em operações de cargas aeroportuárias, desenvolvendo visão prática sobre processos, prazos, gargalos, sistemas operacionais, atendimento a clientes estratégicos e tomada de decisão em cenários de alta responsabilidade.
 
-Atualmente desenvolvo projetos com foco em transformar dados operacionais em **dashboards, relatórios, indicadores e análises para apoio à tomada de decisão**, unindo minha experiência em logística e operações com ferramentas de dados, BI e automação.
+Atualmente desenvolvo projetos voltados à transformação de dados operacionais em **dashboards, relatórios, indicadores e análises para apoio à tomada de decisão**, unindo experiência prática em logística e operações com ferramentas de dados, BI e automação.
 
 ---
 
@@ -35,6 +35,7 @@ Atualmente desenvolvo projetos com foco em transformar dados operacionais em **d
 * Excel
 * Power Query
 * SQL / MySQL
+* Python
 * Git e GitHub
 * HTML / CSS
 * n8n
@@ -104,11 +105,13 @@ Repositório: [porsche-sales-intelligence-dashboard](https://github.com/brunogia
 
 ---
 
-### Relatório Financeiro — Power BI
+### World Cup Intelligence Dashboard
 
-Relatório em Power BI desenvolvido para desafio da DIO, utilizando a base Financial Sample para criação de páginas analíticas com vendas, lucro, unidades vendidas, segmentos e países.
+Dashboard interativo desenvolvido em Python para análise histórica das Copas do Mundo entre 1930 e 2022.
 
-Repositório: [dio-power-bi-relatorio-financial-sample](https://github.com/brunogiacomelli1979-cyber/dio-power-bi-relatorio-financial-sample)
+O projeto explora dados históricos da competição com foco em visualização, indicadores, rankings, evolução temporal e análise comparativa entre seleções, sedes e desempenho ao longo das edições.
+
+Repositório: [world-cup-intelligence-dashboard](https://github.com/brunogiacomelli1979-cyber/world-cup-intelligence-dashboard)
 
 ---
 
