@@ -1,10 +1,10 @@
-# Olá, eu sou Bruno Giacomelli 
+# Olá, eu sou Bruno Giacomelli
 
 Profissional com experiência em **logística aeroportuária, operações, atendimento ao cliente, indicadores e melhoria de processos**, em transição estratégica para **Análise de Dados, Business Intelligence e Automação aplicada a negócios**.
 
 Atuei por mais de 10 anos em ambientes operacionais complexos, especialmente em operações de cargas aeroportuárias, desenvolvendo visão prática sobre processos, prazos, gargalos, sistemas operacionais, atendimento a clientes estratégicos e tomada de decisão em cenários de alta responsabilidade.
 
-Atualmente desenvolvo projetos voltados à transformação de dados operacionais em **dashboards, relatórios, indicadores e análises para apoio à tomada de decisão**, unindo experiência prática em logística e operações com ferramentas de dados, BI e automação.
+Atualmente desenvolvo projetos voltados à transformação de dados operacionais em **dashboards, relatórios, indicadores, automações e agentes de IA aplicados a processos de negócio**, unindo experiência prática em logística e operações com ferramentas de dados, BI e automação.
 
 ---
 
@@ -25,7 +25,9 @@ Atualmente desenvolvo projetos voltados à transformação de dados operacionais
 * Indicadores operacionais
 * Logística e operações
 * Automação aplicada a processos
-* IA aplicada a produtividade e negócios
+* Agentes de IA aplicados a negócios
+* Integrações via APIs e Webhooks
+* IA aplicada à produtividade, atendimento e tomada de decisão
 
 ---
 
@@ -40,11 +42,24 @@ Atualmente desenvolvo projetos voltados à transformação de dados operacionais
 * HTML / CSS
 * n8n
 * Supabase
+* Automação com agentes de IA
+* Integrações via APIs e Webhooks
 * Inteligência Artificial aplicada a negócios
 
 ---
 
 ## 📌 Projetos em destaque
+
+### ZenFlow AI — Agente Inteligente para Estúdios de Yoga
+
+Projeto de portfólio com arquitetura de agente inteligente para estúdios de yoga, integrando atendimento, qualificação de leads, CRM visual, geração de pagamento, reconhecimento por webhook e follow-up automático.
+
+A solução foi planejada com **n8n**, **Supabase**, **Trello**, **Asaas**, **WhatsApp API** e **IA generativa**, demonstrando automação aplicada a processos comerciais, organização de dados, jornada do cliente e integração entre sistemas.
+
+Página do projeto: [ZenFlow AI](https://brunogiacomelli1979-cyber.github.io/zenflow-ai-agente-yoga/)
+Repositório: [zenflow-ai-agente-yoga](https://github.com/brunogiacomelli1979-cyber/zenflow-ai-agente-yoga)
+
+---
 
 ### Portfólio Profissional
 
@@ -125,9 +140,9 @@ Repositório: [world-cup-intelligence-dashboard](https://github.com/brunogiacome
 
 ## 🧭 Direção profissional
 
-Meu objetivo é atuar na interseção entre **logística, operações, dados e BI**, contribuindo para transformar processos, planilhas e informações dispersas em **indicadores, dashboards, relatórios e análises úteis para tomada de decisão**.
+Meu objetivo é atuar na interseção entre **logística, operações, dados, BI e automação com IA**, contribuindo para transformar processos, planilhas, sistemas e informações dispersas em **indicadores, dashboards, relatórios, automações e análises úteis para tomada de decisão**.
 
-Busco unir minha experiência prática em logística aeroportuária, atendimento ao cliente e processos operacionais com ferramentas de Dados, BI e automação, gerando mais clareza, eficiência, produtividade e controle para empresas e equipes.
+Busco unir minha experiência prática em logística aeroportuária, atendimento ao cliente e processos operacionais com ferramentas de Dados, BI, automação e inteligência artificial aplicada, gerando mais clareza, eficiência, produtividade e controle para empresas e equipes.
 
 ---
 
