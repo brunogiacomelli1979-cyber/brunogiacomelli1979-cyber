@@ -1,153 +1,151 @@
 # Olá, eu sou Bruno Giacomelli
 
-Profissional com experiência em **logística aeroportuária, operações, atendimento ao cliente, indicadores e melhoria de processos**, em transição estratégica para **Análise de Dados, Business Intelligence e Automação aplicada a negócios**.
+Profissional com experiência em **logística aeroportuária, operações, atendimento ao cliente, indicadores e melhoria de processos**, em transição estratégica para **Dados, Business Intelligence e Automação aplicada a processos de negócio**.
 
-Atuei por mais de 10 anos em ambientes operacionais complexos, especialmente em operações de cargas aeroportuárias, desenvolvendo visão prática sobre processos, prazos, gargalos, sistemas operacionais, atendimento a clientes estratégicos e tomada de decisão em cenários de alta responsabilidade.
+Atuei por mais de 10 anos em ambientes operacionais complexos, especialmente em operações de cargas aeroportuárias, desenvolvendo visão prática sobre **processos, prazos, gargalos, sistemas operacionais, atendimento a clientes estratégicos e tomada de decisão em cenários de alta responsabilidade**.
 
-Atualmente desenvolvo projetos voltados à transformação de dados operacionais em **dashboards, relatórios, indicadores, automações e agentes de IA aplicados a processos de negócio**, unindo experiência prática em logística e operações com ferramentas de dados, BI e automação.
-
----
-
-## 🚀 Portfólio
-
-🌐 **Portfólio online:**
-[brunogiacomelli1979-cyber.github.io](https://brunogiacomelli1979-cyber.github.io/)
+Atualmente desenvolvo projetos que conectam minha experiência operacional com ferramentas de **Power BI, SQL, Excel, Python, automação e IA**, transformando dados e processos em **dashboards, indicadores, análises e soluções aplicáveis ao negócio**.
 
 ---
 
-## 🎯 Foco atual
+## Portfólio
 
-* Análise de Dados
-* Business Intelligence
-* Power BI
-* SQL / MySQL
-* Excel e Power Query
-* Indicadores operacionais
-* Logística e operações
-* Automação aplicada a processos
-* Agentes de IA aplicados a negócios
-* Integrações via APIs e Webhooks
-* IA aplicada à produtividade, atendimento e tomada de decisão
+Acesse meu portfólio online:
+
+**[brunogiacomelli1979-cyber.github.io](https://brunogiacomelli1979-cyber.github.io/)**
 
 ---
 
-## 🛠️ Ferramentas e tecnologias
+## Posicionamento profissional
 
-* Power BI
-* Excel
-* Power Query
-* SQL / MySQL
-* Python
-* Git e GitHub
-* HTML / CSS
-* n8n
-* Supabase
-* Automação com agentes de IA
-* Integrações via APIs e Webhooks
-* Inteligência Artificial aplicada a negócios
+Meu foco é atuar na interseção entre:
+
+* **Logística e Operações**
+* **Análise de Dados**
+* **Business Intelligence**
+* **Indicadores e KPIs**
+* **Melhoria de Processos**
+* **Automação aplicada a negócios**
+* **IA como apoio à produtividade e tomada de decisão**
+
+Meu diferencial é unir vivência real em operação com capacidade analítica para estruturar dados, criar indicadores, visualizar informações e apoiar decisões mais claras.
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
-### ZenFlow AI — Agente Inteligente para Estúdios de Yoga
+### Airport Cargo Analytics
 
-Projeto de portfólio com arquitetura de agente inteligente para estúdios de yoga, integrando atendimento, qualificação de leads, CRM visual, geração de pagamento, reconhecimento por webhook e follow-up automático.
+Projeto autoral de análise de dados aplicado à **logística aeroportuária de cargas**, inspirado na minha experiência profissional em terminal de cargas.
 
-A solução foi planejada com **n8n**, **Supabase**, **Trello**, **Asaas**, **WhatsApp API** e **IA generativa**, demonstrando automação aplicada a processos comerciais, organização de dados, jornada do cliente e integração entre sistemas.
+O projeto tem foco em **KPIs operacionais, SLA, gargalos, conformidade, prazos e melhoria da tomada de decisão** em processos de recebimento, armazenagem, liberação e entrega de cargas.
 
-Página do projeto: [ZenFlow AI](https://brunogiacomelli1979-cyber.github.io/zenflow-ai-agente-yoga/)
-Repositório: [zenflow-ai-agente-yoga](https://github.com/brunogiacomelli1979-cyber/zenflow-ai-agente-yoga)
+**Destaques:** Logística aeroportuária, Power BI, SQL, KPIs, análise operacional e indicadores de desempenho.
+
+**Repositório:** [airport-cargo-analytics](https://github.com/brunogiacomelli1979-cyber/airport-cargo-analytics)
+
+---
+
+### SQL Quest Platform
+
+Jogo educacional interativo para aprendizagem de **SQL**, com missões, narrativa, validação automática, banco SQLite no navegador e progressão gamificada.
+
+O projeto demonstra prática com consultas SQL, lógica, estruturação de desafios, JavaScript, HTML/CSS e construção de uma experiência de aprendizagem aplicada.
+
+**Destaques:** SQL, JavaScript, HTML/CSS, SQLite, lógica de dados e produto educacional.
+
+**Repositório:** [sql-quest-platform](https://github.com/brunogiacomelli1979-cyber/sql-quest-platform)
+
+---
+
+### Power BI Global Sales Dashboard
+
+Dashboard analítico desenvolvido em **Power BI** para análise de vendas globais, com foco em perguntas de negócio, indicadores comerciais, filtros, segmentações e visualização gerencial.
+
+O projeto analisa vendas por categoria, país, prioridade de entrega, descontos e desempenho comercial.
+
+**Destaques:** Power BI, Power Query, DAX, KPIs, storytelling com dados e análise de negócio.
+
+**Repositório:** [powerbi-global-sales-dashboard](https://github.com/brunogiacomelli1979-cyber/powerbi-global-sales-dashboard)
+
+---
+
+### Protocolo ADA
+
+Estrutura metodológica para conduzir projetos de análise de dados com apoio de IA, mantendo validação humana, documentação, rastreabilidade e clareza no processo analítico.
+
+O projeto organiza etapas como entendimento do problema, preparação dos dados, tratamento, validação, criação de KPIs e apresentação dos resultados.
+
+**Destaques:** Metodologia de análise, governança, IA assistida, validação humana e documentação técnica.
 
 ---
 
 ### Portfólio Profissional
 
-Site pessoal desenvolvido para apresentar meus projetos, trajetória profissional, certificações, currículo e direcionamento na área de Dados, BI, Operações e Automação aplicada a negócios.
+Site pessoal desenvolvido para apresentar minha trajetória profissional, projetos, certificações, currículo e direcionamento na área de **Dados, BI, Logística, Operações e Automação aplicada a negócios**.
 
-Repositório: [brunogiacomelli1979-cyber.github.io](https://github.com/brunogiacomelli1979-cyber/brunogiacomelli1979-cyber.github.io)
+**Repositório:** [brunogiacomelli1979-cyber.github.io](https://github.com/brunogiacomelli1979-cyber/brunogiacomelli1979-cyber.github.io)
 
 ---
+
+## Projetos complementares
 
 ### Glix
 
-Aplicativo SaaS de health tech para registro, acompanhamento e organização pessoal de glicemia, com foco em simplicidade, segurança dos dados e geração de relatórios.
+Aplicativo SaaS de health tech para registro, acompanhamento e organização pessoal de glicemia, com autenticação, banco de dados, histórico e visualização de informações.
 
-O projeto demonstra prática com desenvolvimento web, autenticação, banco de dados, dashboard, organização de requisitos, documentação, versionamento e uso de IA como apoio ao desenvolvimento.
+**Destaques:** Next.js, Supabase, autenticação, banco de dados e produto digital.
 
-Repositório: [Glix](https://github.com/brunogiacomelli1979-cyber/Glix)
-
----
-
-### Airport Cargo Analytics
-
-Projeto autoral de Business Intelligence inspirado na minha experiência em logística aeroportuária.
-
-O objetivo é analisar o desempenho operacional do recebimento, armazenagem, liberação e entrega de cargas de importação em um terminal aeroportuário, identificando gargalos, atrasos, cumprimento de SLA e pontos de melhoria operacional.
-
-O projeto considera indicadores como:
-
-* tempo de recebimento de cargas;
-* tempo de armazenagem;
-* tempo de liberação;
-* tempo de entrega;
-* cumprimento de SLA;
-* gargalos operacionais;
-* desempenho por natureza da carga;
-* análise por voo, companhia aérea e período.
-
-Repositório: [airport-cargo-analytics](https://github.com/brunogiacomelli1979-cyber/airport-cargo-analytics)
+**Repositório:** [Glix](https://github.com/brunogiacomelli1979-cyber/Glix)
 
 ---
 
-### Dashboard Analítico de Vendas Globais — Power BI
+### ZenFlow AI
 
-Dashboard desenvolvido em Power BI como parte do Laboratório Prático 1 do curso **Microsoft Power BI Para Business Intelligence e Data Science**, da Data Science Academy.
+Agente inteligente para estúdios de yoga, com atendimento via WhatsApp, qualificação de leads, CRM visual, pagamentos e follow-up automatizado.
 
-O projeto analisa vendas globais de uma empresa fictícia, respondendo perguntas de negócio relacionadas a valor total vendido, vendas por categoria, país, prioridade de entrega, média de desconto por subcategoria e países com maior média de valor de venda.
+**Destaques:** n8n, Supabase, IA generativa, WhatsApp API, Asaas, Trello e automação comercial.
 
-Repositório: [powerbi-global-sales-dashboard](https://github.com/brunogiacomelli1979-cyber/powerbi-global-sales-dashboard)
-
----
-
-### Porsche Sales Intelligence Dashboard
-
-Dashboard executivo de vendas Porsche desenvolvido com **Excel, HTML, CSS e apoio de IA**, criado para o desafio **AI Reports**.
-
-A proposta foi transformar uma base inicialmente desorganizada em uma experiência visual mais clara, executiva e orientada à tomada de decisão.
-
-Repositório: [porsche-sales-intelligence-dashboard](https://github.com/brunogiacomelli1979-cyber/porsche-sales-intelligence-dashboard)
+**Página do projeto:** [ZenFlow AI](https://brunogiacomelli1979-cyber.github.io/zenflow-ai-agente-yoga/)
+**Repositório:** [zenflow-ai-agente-yoga](https://github.com/brunogiacomelli1979-cyber/zenflow-ai-agente-yoga)
 
 ---
 
-### World Cup Intelligence Dashboard
+## Ferramentas e tecnologias
 
-Dashboard interativo desenvolvido em Python para análise histórica das Copas do Mundo entre 1930 e 2022.
+**Dados e BI:**
+Power BI, Excel, Power Query, SQL, MySQL, DAX, KPIs, dashboards e relatórios gerenciais.
 
-O projeto explora dados históricos da competição com foco em visualização, indicadores, rankings, evolução temporal e análise comparativa entre seleções, sedes e desempenho ao longo das edições.
+**Automação e IA:**
+n8n, Supabase, agentes de IA, engenharia de prompts, APIs, Webhooks e automações aplicadas a processos.
 
-Repositório: [world-cup-intelligence-dashboard](https://github.com/brunogiacomelli1979-cyber/world-cup-intelligence-dashboard)
+**Programação e desenvolvimento:**
+Python básico, JavaScript, HTML, CSS, Git, GitHub, GitHub Pages e documentação técnica.
+
+**Negócio e operações:**
+Logística aeroportuária, processos operacionais, atendimento ao cliente, SLA, análise de gargalos, indicadores e melhoria contínua.
 
 ---
 
-## 📚 Estudos atuais
+## Estudos atuais
 
 * Google Data Analytics — Coursera
 * Microsoft Power BI para Business Intelligence e Data Science — Data Science Academy
 * CS50x — Harvard
+* SQL, Power BI, Python e automação aplicada a negócios
 
 ---
 
-## 🧭 Direção profissional
+## Direção profissional
 
-Meu objetivo é atuar na interseção entre **logística, operações, dados, BI e automação com IA**, contribuindo para transformar processos, planilhas, sistemas e informações dispersas em **indicadores, dashboards, relatórios, automações e análises úteis para tomada de decisão**.
+Busco atuar em funções relacionadas a **Dados, BI, Logística, Operações, Processos, Indicadores e Automação**, contribuindo para transformar processos, planilhas, sistemas e informações dispersas em análises úteis para tomada de decisão.
 
-Busco unir minha experiência prática em logística aeroportuária, atendimento ao cliente e processos operacionais com ferramentas de Dados, BI, automação e inteligência artificial aplicada, gerando mais clareza, eficiência, produtividade e controle para empresas e equipes.
+Meu objetivo é aplicar minha experiência prática em logística e operações na criação de soluções simples, organizadas, bem documentadas e conectadas a problemas reais de negócio.
 
 ---
 
-## 📫 Contato
+## Contato
 
-* LinkedIn: [linkedin.com/in/bruno-giacomelli-9b049934a](https://www.linkedin.com/in/bruno-giacomelli-9b049934a/)
-* GitHub: [github.com/brunogiacomelli1979-cyber](https://github.com/brunogiacomelli1979-cyber)
-* Portfólio: [brunogiacomelli1979-cyber.github.io](https://brunogiacomelli1979-cyber.github.io/)
+* **LinkedIn:** [linkedin.com/in/bruno-giacomelli-9b049934a](https://www.linkedin.com/in/bruno-giacomelli-9b049934a/)
+* **GitHub:** [github.com/brunogiacomelli1979-cyber](https://github.com/brunogiacomelli1979-cyber)
+* **Portfólio:** [brunogiacomelli1979-cyber.github.io](https://brunogiacomelli1979-cyber.github.io/)
