@@ -1,10 +1,10 @@
 # Olá, eu sou Bruno Giacomelli
 
-Profissional com experiência em **logística aeroportuária, operações, atendimento ao cliente, indicadores e melhoria de processos**, em transição estratégica para **Dados, Business Intelligence e Automação aplicada a processos de negócio**.
+Profissional de **logística, operações e dados**, com mais de 10 anos de experiência em logística aeroportuária, atendimento a clientes estratégicos, indicadores, processos e melhoria contínua.
 
-Atuei por mais de 10 anos em ambientes operacionais complexos, especialmente em operações de cargas aeroportuárias, desenvolvendo visão prática sobre **processos, prazos, gargalos, sistemas operacionais, atendimento a clientes estratégicos e tomada de decisão em cenários de alta responsabilidade**.
+Em 2026, retornei à **Aeroportos Brasil Viracopos** como **Analista de Processos Logísticos III**, reforçando meu posicionamento na interseção entre **operações aeroportuárias, indicadores, Business Intelligence, Power BI, SQL e automação com IA**.
 
-Atualmente desenvolvo projetos que conectam minha experiência operacional com ferramentas de **Power BI, SQL, Excel, Python, automação e IA**, transformando dados e processos em **dashboards, indicadores, análises e soluções aplicáveis ao negócio**.
+Meu diferencial é unir vivência real em ambientes operacionais complexos com capacidade analítica para estruturar dados, criar indicadores, construir dashboards e apoiar decisões mais claras para a operação.
 
 ---
 
@@ -28,7 +28,15 @@ Meu foco é atuar na interseção entre:
 * **Automação aplicada a negócios**
 * **IA como apoio à produtividade e tomada de decisão**
 
-Meu diferencial é unir vivência real em operação com capacidade analítica para estruturar dados, criar indicadores, visualizar informações e apoiar decisões mais claras.
+Busco aplicar dados e BI a problemas concretos de operação: SLA, gargalos, produtividade, qualidade da informação, rastreabilidade, atendimento, fluxos de trabalho e clareza gerencial.
+
+---
+
+## Atualização recente
+
+* Retorno à **Aeroportos Brasil Viracopos** como **Analista de Processos Logísticos III**.
+* Conclusão do **CS50x - Introduction to Computer Science**, de Harvard, em 2026.
+* Continuidade dos projetos de portfólio em **Power BI, SQL, automação com IA e análise aplicada à logística aeroportuária**.
 
 ---
 
@@ -80,14 +88,6 @@ O projeto organiza etapas como entendimento do problema, preparação dos dados,
 
 ---
 
-### Portfólio Profissional
-
-Site pessoal desenvolvido para apresentar minha trajetória profissional, projetos, certificações, currículo e direcionamento na área de **Dados, BI, Logística, Operações e Automação aplicada a negócios**.
-
-**Repositório:** [brunogiacomelli1979-cyber.github.io](https://github.com/brunogiacomelli1979-cyber/brunogiacomelli1979-cyber.github.io)
-
----
-
 ## Projetos complementares
 
 ### Glix
@@ -106,41 +106,42 @@ Agente inteligente para estúdios de yoga, com atendimento via WhatsApp, qualifi
 
 **Destaques:** n8n, Supabase, IA generativa, WhatsApp API, Asaas, Trello e automação comercial.
 
-**Página do projeto:** [ZenFlow AI](https://brunogiacomelli1979-cyber.github.io/zenflow-ai-agente-yoga/)
+**Página do projeto:** [ZenFlow AI](https://brunogiacomelli1979-cyber.github.io/zenflow-ai-agente-yoga/)  
 **Repositório:** [zenflow-ai-agente-yoga](https://github.com/brunogiacomelli1979-cyber/zenflow-ai-agente-yoga)
 
 ---
 
 ## Ferramentas e tecnologias
 
-**Dados e BI:**
+**Dados e BI:**  
 Power BI, Excel, Power Query, SQL, MySQL, DAX, KPIs, dashboards e relatórios gerenciais.
 
-**Automação e IA:**
+**Automação e IA:**  
 n8n, Supabase, agentes de IA, engenharia de prompts, APIs, Webhooks e automações aplicadas a processos.
 
-**Programação e desenvolvimento:**
-Python básico, JavaScript, HTML, CSS, Git, GitHub, GitHub Pages e documentação técnica.
+**Programação e desenvolvimento:**  
+CS50x, Python básico, JavaScript, HTML, CSS, Git, GitHub, GitHub Pages e documentação técnica.
 
-**Negócio e operações:**
+**Negócio e operações:**  
 Logística aeroportuária, processos operacionais, atendimento ao cliente, SLA, análise de gargalos, indicadores e melhoria contínua.
 
 ---
 
-## Estudos atuais
+## Formação e desenvolvimento
 
-* Google Data Analytics — Coursera
-* Microsoft Power BI para Business Intelligence e Data Science — Data Science Academy
-* CS50x — Harvard
-* SQL, Power BI, Python e automação aplicada a negócios
+* **CS50x - Introduction to Computer Science**, Harvard University - concluído em 2026.
+* **Google Data Analytics**, Coursera - em andamento.
+* **Microsoft Power BI para Business Intelligence e Data Science**, Data Science Academy - em andamento.
+* **Power BI, SQL, Python e BI/KPIs**, DIO/Sysvision - trilhas complementares.
+* **Agentes de IA e automação de processos**, NoCode Startup - concluído.
 
 ---
 
 ## Direção profissional
 
-Busco atuar em funções relacionadas a **Dados, BI, Logística, Operações, Processos, Indicadores e Automação**, contribuindo para transformar processos, planilhas, sistemas e informações dispersas em análises úteis para tomada de decisão.
+Atualmente, meu foco está em **Logística e Operações orientadas por Dados**, conectando minha atuação profissional em Viracopos com projetos e estudos em **BI, indicadores, automação e IA aplicada a processos**.
 
-Meu objetivo é aplicar minha experiência prática em logística e operações na criação de soluções simples, organizadas, bem documentadas e conectadas a problemas reais de negócio.
+Meu objetivo é contribuir para transformar processos, planilhas, sistemas e informações dispersas em análises úteis, dashboards claros e decisões operacionais melhor embasadas.
 
 ---
 
