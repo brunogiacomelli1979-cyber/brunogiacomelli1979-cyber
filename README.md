@@ -1,10 +1,10 @@
 # Olá, eu sou Bruno Giacomelli
 
-Profissional de **logística, operações e dados**, com mais de 10 anos de experiência em logística aeroportuária, atendimento a clientes estratégicos, indicadores, processos e melhoria contínua.
+Profissional com experiência em **operações, logística aeroportuária, atendimento a clientes, indicadores e melhoria de processos**, atualmente direcionando sua trajetória para **Dados, Business Intelligence e Indicadores aplicados a Operações e Customer Service**.
 
-Em 2026, retornei à **Aeroportos Brasil Viracopos** como **Analista de Processos Logísticos III**, reforçando meu posicionamento na interseção entre **operações aeroportuárias, indicadores, Business Intelligence, Power BI, SQL e automação com IA**.
+Atuo na **Aeroportos Brasil Viracopos** como **Analista de Processos Logísticos III** e curso **Big Data e Inteligência Analítica** pela **Universidade Anhembi Morumbi**.
 
-Meu diferencial é unir vivência real em ambientes operacionais complexos com capacidade analítica para estruturar dados, criar indicadores, construir dashboards e apoiar decisões mais claras para a operação.
+Meu foco é conectar experiência prática de negócio com ferramentas como **Power BI, SQL e Excel**, criando relatórios, dashboards, indicadores e análises que apoiem decisões, melhorem processos e tragam mais clareza para operações e atendimento ao cliente.
 
 ---
 
@@ -20,15 +20,15 @@ Acesse meu portfólio online:
 
 Meu foco é atuar na interseção entre:
 
-* **Logística e Operações**
-* **Análise de Dados**
-* **Business Intelligence**
-* **Indicadores e KPIs**
+* **Dados, BI e Indicadores**
+* **Operações e Processos**
+* **Customer Service**
+* **Logística aeroportuária**
+* **Power BI, SQL e Excel**
 * **Melhoria de Processos**
-* **Automação aplicada a negócios**
-* **IA como apoio à produtividade e tomada de decisão**
+* **Automação aplicada como apoio complementar**
 
-Busco aplicar dados e BI a problemas concretos de operação: SLA, gargalos, produtividade, qualidade da informação, rastreabilidade, atendimento, fluxos de trabalho e clareza gerencial.
+Aplico dados e BI a problemas concretos de operação e atendimento: SLA, gargalos, produtividade, qualidade da informação, rastreabilidade, demandas de clientes, fluxos de trabalho e clareza gerencial.
 
 ---
 
@@ -37,7 +37,7 @@ Busco aplicar dados e BI a problemas concretos de operação: SLA, gargalos, pro
 * Retorno à **Aeroportos Brasil Viracopos** como **Analista de Processos Logísticos III**.
 * Início da formação superior em **Big Data e Inteligência Analítica**, pela **Universidade Anhembi Morumbi**, em 2026.
 * Conclusão do **CS50x - Introduction to Computer Science**, de Harvard, em 2026.
-* Continuidade dos projetos de portfólio em **Power BI, SQL, automação com IA e análise aplicada à logística aeroportuária**.
+* Continuidade dos projetos de portfólio em **Power BI, SQL, Excel, BI, indicadores e análise aplicada a operações**.
 
 ---
 
@@ -115,16 +115,16 @@ Agente inteligente para estúdios de yoga, com atendimento via WhatsApp, qualifi
 ## Ferramentas e tecnologias
 
 **Dados e BI:**  
-Power BI, Excel, Power Query, SQL, MySQL, DAX, KPIs, dashboards e relatórios gerenciais.
+Power BI, Excel, SQL, MySQL, KPIs, dashboards, relatórios gerenciais, visualização de informações e apoio à tomada de decisão.
 
-**Automação e IA:**  
-n8n, Supabase, agentes de IA, engenharia de prompts, APIs, Webhooks e automações aplicadas a processos.
+**Operações e Customer Service:**
+Logística aeroportuária, processos operacionais, atendimento ao cliente, SLA, análise de gargalos, indicadores, rastreabilidade e melhoria contínua.
 
 **Programação e desenvolvimento:**  
 CS50x, Python básico, JavaScript, HTML, CSS, Git, GitHub, GitHub Pages e documentação técnica.
 
-**Negócio e operações:**  
-Logística aeroportuária, processos operacionais, atendimento ao cliente, SLA, análise de gargalos, indicadores e melhoria contínua.
+**Automação e IA como apoio:**
+n8n, Supabase, agentes de IA, engenharia de prompts, APIs e automações aplicadas a processos.
 
 ---
 
@@ -141,9 +141,9 @@ Logística aeroportuária, processos operacionais, atendimento ao cliente, SLA, 
 
 ## Direção profissional
 
-Atualmente, meu foco está em **Logística e Operações orientadas por Dados**, conectando minha atuação profissional em Viracopos com projetos e estudos em **BI, indicadores, automação e IA aplicada a processos**.
+Atualmente, meu foco está em **Dados, BI e Indicadores para Operações e Customer Service**, conectando minha atuação profissional em Viracopos com projetos e estudos em **Power BI, SQL, Excel, indicadores e melhoria de processos**.
 
-Meu objetivo é contribuir para transformar processos, planilhas, sistemas e informações dispersas em análises úteis, dashboards claros e decisões operacionais melhor embasadas.
+Meu objetivo é transformar processos, planilhas, sistemas e informações dispersas em análises úteis, dashboards claros e decisões operacionais melhor embasadas.
 
 ---
 
