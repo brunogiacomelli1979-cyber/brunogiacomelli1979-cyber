@@ -1,10 +1,10 @@
 # Olá, eu sou Bruno Giacomelli
 
-Profissional com experiência em **operações, logística aeroportuária, atendimento a clientes, indicadores e melhoria de processos**, atualmente direcionando sua trajetória para **Dados, Business Intelligence e Indicadores aplicados a Operações e Customer Service**.
+Profissional com experiência em **operações, logística aeroportuária, atendimento a clientes, indicadores e melhoria de processos**, com atuação atual na **Aeroportos Brasil Viracopos** como **Analista de Processos Logísticos III**.
 
-Atuo na **Aeroportos Brasil Viracopos** como **Analista de Processos Logísticos III** e curso **Big Data e Inteligência Analítica** pela **Universidade Anhembi Morumbi**.
+Curso **Big Data e Inteligência Analítica** pela **Universidade Anhembi Morumbi** e venho direcionando minha trajetória para **Dados, Business Intelligence e Indicadores aplicados a Operações e Customer Service**.
 
-Meu foco é conectar experiência prática de negócio com ferramentas como **Power BI, SQL e Excel**, criando relatórios, dashboards, indicadores e análises que apoiem decisões, melhorem processos e tragam mais clareza para operações e atendimento ao cliente.
+Meu trabalho conecta experiência prática de negócio com ferramentas como **Power BI, SQL e Excel**, criando relatórios, dashboards e análises que apoiam decisões, melhoram processos e trazem mais clareza para a operação e o atendimento ao cliente.
 
 ---
 
@@ -18,17 +18,11 @@ Acesse meu portfólio online:
 
 ## Posicionamento profissional
 
-Meu foco é atuar na interseção entre:
+Atuo na interseção entre **dados, indicadores, processos, operações e atendimento ao cliente**.
 
-* **Dados, BI e Indicadores**
-* **Operações e Processos**
-* **Customer Service**
-* **Logística aeroportuária**
-* **Power BI, SQL e Excel**
-* **Melhoria de Processos**
-* **Automação aplicada como apoio complementar**
+Minha base profissional vem de ambientes operacionais de alta responsabilidade, especialmente na logística aeroportuária, onde temas como SLA, gargalos, produtividade, rastreabilidade, qualidade da informação e relacionamento com clientes fazem parte da rotina.
 
-Aplico dados e BI a problemas concretos de operação e atendimento: SLA, gargalos, produtividade, qualidade da informação, rastreabilidade, demandas de clientes, fluxos de trabalho e clareza gerencial.
+Hoje, complemento essa experiência com formação e projetos em **BI, Power BI, SQL, Excel, análise de dados e automação aplicada como apoio complementar**.
 
 ---
 
@@ -49,7 +43,7 @@ Projeto autoral de análise de dados aplicado à **logística aeroportuária de 
 
 O projeto tem foco em **KPIs operacionais, SLA, gargalos, conformidade, prazos e melhoria da tomada de decisão** em processos de recebimento, armazenagem, liberação e entrega de cargas.
 
-**Destaques:** Logística aeroportuária, Power BI, SQL, KPIs, análise operacional e indicadores de desempenho.
+**Destaques:** Logística aeroportuária, Power BI, SQL, KPIs e análise operacional.
 
 **Repositório:** [airport-cargo-analytics](https://github.com/brunogiacomelli1979-cyber/airport-cargo-analytics)
 
@@ -61,7 +55,7 @@ Jogo educacional interativo para aprendizagem de **SQL**, com missões, narrativ
 
 O projeto demonstra prática com consultas SQL, lógica, estruturação de desafios, JavaScript, HTML/CSS e construção de uma experiência de aprendizagem aplicada.
 
-**Destaques:** SQL, JavaScript, HTML/CSS, SQLite, lógica de dados e produto educacional.
+**Destaques:** SQL, JavaScript, HTML/CSS, SQLite e lógica de dados.
 
 **Repositório:** [sql-quest-platform](https://github.com/brunogiacomelli1979-cyber/sql-quest-platform)
 
@@ -73,7 +67,7 @@ Dashboard analítico desenvolvido em **Power BI** para análise de vendas globai
 
 O projeto analisa vendas por categoria, país, prioridade de entrega, descontos e desempenho comercial.
 
-**Destaques:** Power BI, Power Query, DAX, KPIs, storytelling com dados e análise de negócio.
+**Destaques:** Power BI, DAX, KPIs e storytelling com dados.
 
 **Repositório:** [powerbi-global-sales-dashboard](https://github.com/brunogiacomelli1979-cyber/powerbi-global-sales-dashboard)
 
@@ -115,35 +109,35 @@ Agente inteligente para estúdios de yoga, com atendimento via WhatsApp, qualifi
 ## Ferramentas e tecnologias
 
 **Dados e BI:**  
-Power BI, Excel, SQL, MySQL, KPIs, dashboards, relatórios gerenciais, visualização de informações e apoio à tomada de decisão.
+Power BI, Excel, SQL, MySQL, KPIs, dashboards, relatórios gerenciais e visualização de informações.
 
-**Operações e Customer Service:**
-Logística aeroportuária, processos operacionais, atendimento ao cliente, SLA, análise de gargalos, indicadores, rastreabilidade e melhoria contínua.
+**Operações e Customer Service:**  
+Logística aeroportuária, processos operacionais, atendimento ao cliente, SLA, análise de gargalos, rastreabilidade e melhoria contínua.
 
 **Programação e desenvolvimento:**  
 CS50x, Python básico, JavaScript, HTML, CSS, Git, GitHub, GitHub Pages e documentação técnica.
 
-**Automação e IA como apoio:**
+**Automação e IA como apoio:**  
 n8n, Supabase, agentes de IA, engenharia de prompts, APIs e automações aplicadas a processos.
 
 ---
 
 ## Formação e desenvolvimento
 
-* **Big Data e Inteligência Analítica**, Universidade Anhembi Morumbi - curso superior de tecnologia em andamento, iniciado em 2026.
-* **CS50x - Introduction to Computer Science**, Harvard University - concluído em 2026.
-* **Google Data Analytics**, Coursera - em andamento.
-* **Microsoft Power BI para Business Intelligence e Data Science**, Data Science Academy - em andamento.
-* **Power BI, SQL, Python e BI/KPIs**, DIO/Sysvision - trilhas complementares.
-* **Agentes de IA e automação de processos**, NoCode Startup - concluído.
+* **Big Data e Inteligência Analítica**, Universidade Anhembi Morumbi — curso superior de tecnologia em andamento, iniciado em 2026.
+* **CS50x - Introduction to Computer Science**, Harvard University — concluído em 2026.
+* **Google Data Analytics**, Coursera — em andamento.
+* **Microsoft Power BI para Business Intelligence e Data Science**, Data Science Academy — em andamento.
+* **Power BI, SQL, Python e BI/KPIs**, DIO/Sysvision — trilhas complementares.
+* **Agentes de IA e automação de processos**, NoCode Startup — concluído.
 
 ---
 
-## Direção profissional
+## Direção de desenvolvimento
 
-Atualmente, meu foco está em **Dados, BI e Indicadores para Operações e Customer Service**, conectando minha atuação profissional em Viracopos com projetos e estudos em **Power BI, SQL, Excel, indicadores e melhoria de processos**.
+Minha evolução profissional está concentrada em **Dados, BI e Indicadores aplicados a Operações e Customer Service**, conectando minha atuação em Viracopos com estudos e projetos em **Power BI, SQL, Excel, análise de dados e melhoria de processos**.
 
-Meu objetivo é transformar processos, planilhas, sistemas e informações dispersas em análises úteis, dashboards claros e decisões operacionais melhor embasadas.
+O objetivo é transformar processos, planilhas, sistemas e informações dispersas em análises úteis, dashboards claros e decisões operacionais melhor embasadas.
 
 ---
 
