@@ -35,6 +35,7 @@ Busco aplicar dados e BI a problemas concretos de operação: SLA, gargalos, pro
 ## Atualização recente
 
 * Retorno à **Aeroportos Brasil Viracopos** como **Analista de Processos Logísticos III**.
+* Início da formação superior em **Big Data e Inteligência Analítica**, pela **Universidade Anhembi Morumbi**, em 2026.
 * Conclusão do **CS50x - Introduction to Computer Science**, de Harvard, em 2026.
 * Continuidade dos projetos de portfólio em **Power BI, SQL, automação com IA e análise aplicada à logística aeroportuária**.
 
@@ -129,6 +130,7 @@ Logística aeroportuária, processos operacionais, atendimento ao cliente, SLA, 
 
 ## Formação e desenvolvimento
 
+* **Big Data e Inteligência Analítica**, Universidade Anhembi Morumbi - curso superior de tecnologia em andamento, iniciado em 2026.
 * **CS50x - Introduction to Computer Science**, Harvard University - concluído em 2026.
 * **Google Data Analytics**, Coursera - em andamento.
 * **Microsoft Power BI para Business Intelligence e Data Science**, Data Science Academy - em andamento.
